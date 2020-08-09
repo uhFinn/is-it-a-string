@@ -1,0 +1,19 @@
+{
+  "name": "is-it-a-string",
+  "version": "1.0.0",
+  "description": "This package will return true if an input is a string and return false if the input is not a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "string",
+    "is-string",
+    "is"
+  ],
+  "author": "Finn Scully",
+  "license": "MIT",
+  "homepage": "https://github.com/uhFinn/is-it-a-string"
+}
